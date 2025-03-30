@@ -10,7 +10,7 @@
 ## 🚀 **Skills**
 
 - **Frontend Development**: HTML, CSS, SCSS, JavaScript, TypeScript, Vue.js, Pinia, Nuxt.js, Vega Lite  
-- **Backend Development**: Node.js, Fastify (Express.js), FastAPI  
+- **Backend Development**: Node.js, FastAPI, Elysia (Bun runtime)
 - **UI/UX Design**: Figma, Responsive Design, Component-Based Architecture  
 - **Testing & QA**: Vitest, Playwright (Automation & End-to-End Testing)  
 - **Data Manipulation**: Python, NumPy, Pandas, SQL  
